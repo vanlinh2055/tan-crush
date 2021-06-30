@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Anh đẹp trai siêu cấp vip pro nên em yêu',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <3', 
     messLink: 'm.me/thietkedohoakd
 }
